@@ -1,10 +1,10 @@
-# kaggle-house-prices-dataset
+# House Prices Kaggle Competition
 
 House Prices - Advanced Regression Techniques 
 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 
-I run through the entire machine learning project structure on the House Prices dataset in the Jupyter Notebook.
+I run through the entire machine learning project structure on the House Prices dataset in the Jupyter Notebook [(kaggle-house-prices-dataset.ipynb)](kaggle-house-prices-dataset.ipynb).
 
 Top 5% of leaderboard.
 
