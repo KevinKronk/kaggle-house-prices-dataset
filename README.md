@@ -14,5 +14,9 @@ Top 5% of leaderboard.
 ## The Big Picture and Framing the Problem
 
 This dataset comes from the House Prices - Advanced Regression Techniques Kaggle competition. The goal is to build a model that is able to predict the sale price of houses in Ames, Iowa, based on a variety of numerical and categorical features that describe many aspects of a residential home. 
+
 In a real world application the goal would likely be to approach and surpass the predictive performance of expert realtors. The model could be used to determine the sale price of a house being put up for sale in that area. There might be certain limitations as to how the data is preprocessed and which model is chosen, as well as when the performance is good enough. However, seeing as this is a competition, the goal is to minimize the error in predictions using whatever means possible (without cheating of course). 
+
 We will be predicting numerical prices based on data that comes with labels, therefore this is a supervised regression problem. The root mean squared error of the predictions on the holdout set will be used to measure performance before making predictions on the unlabeled test set. 
+
+## Data Collection
